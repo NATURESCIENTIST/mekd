@@ -1,0 +1,75 @@
+.header1{
+    background-color: black;
+    margin: 0rem;
+    margin-left: 0ch;
+    width: 100%
+    
+}
+
+.logo{
+    width: 60px;
+}
+
+.headname{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: #e2f511;
+}
+.inline
+{display: inline-block;}
+
+.optn{
+    color: #e2f511;
+    text-align: end;
+    text-decoration: none;
+}
+.fntbody{
+    font-size: 4rem;
+}
+.fntfam{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.cent {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .bg{
+      background-image:url('bg.jpg');
+      height: 100%;
+      width: 100%;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      
+  }
+
+  .fa {
+    padding: 20px;
+    font-size: 50px;
+    width: 5%;
+    text-align: center;
+    text-decoration: none;
+    margin: 2px 2px;
+    border-radius: 50%;
+  }
+  
+
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+  }
+
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+
+  .fa-telegram {
+    background: #3B5998;
+    color: white;
+  }
+  
+  
